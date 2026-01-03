@@ -50,7 +50,7 @@ I am currently seeking **paid internships / entry-level opportunities** where I 
 ## 💼 Experience
 
 **Data Scientist Intern – Unified Mentors (Remote)**  
-📅 Aug 2025  
+📅 Aug 2025  - sep 2025
 - Worked on real-world data science projects  
 - Applied ML techniques in a live project environment  
 
